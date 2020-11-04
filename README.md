@@ -8,5 +8,7 @@ Laravel application for course project
 - Html
 - PHP
 
-**view Project Details **
+**view Project Details**
 [Link for application](http://naamael.myweb.jce.ac.il/wenoy/public/)
+
+Username: zohar@wenoy.com Password: 12345678
